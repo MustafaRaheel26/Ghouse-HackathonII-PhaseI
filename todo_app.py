@@ -4,6 +4,7 @@ Todo App CLI - A Python in-memory CLI Todo application
 
 This application allows users to add, update, delete, view, and mark tasks complete/incomplete.
 All data is stored in memory only and will be lost when the application exits.
+By Mustafa (71798)
 """
 
 import uuid
